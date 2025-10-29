@@ -1,6 +1,11 @@
 ## Hi I am Naimul👋
 📫 Contact Me: naimul.dev95@gmail.com
-# 📊 GitHub Stats:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
 ![](https://github-readme-stats.vercel.app/api?username=dev-naimul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dev-naimul&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-naimul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -13,7 +18,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dev-naimul&icon=1&color=0)](https://visitcount.itsvg.in)
-
 
 
 
