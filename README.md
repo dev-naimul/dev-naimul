@@ -1,5 +1,5 @@
 ## Hi I am Naimul👋
-![MailDownloadGIF](https://github.com/user-attachments/assets/1b2db794-c68a-463d-9e41-ff7f2e3fd7a3) Contact Me: naimul.dev95@gmail.com
+📫 Contact Me: naimul.dev95@gmail.com
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dev-naimul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dev-naimul&theme=tokyonight&hide_border=false)<br/>
